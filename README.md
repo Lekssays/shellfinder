@@ -3,6 +3,8 @@
 
 A Simple Tool to Find Shells and Some Interesting Endpoints in Websites
 
+A shell is malicious PHP file and execute it by accessing it via a web browser. It is a PHP script that allows the attacker to control the server - essentially a backdoor program, similar in functionality to a trojan for personal computers.
+
 ## Installation 
 Prerequisites:
 
